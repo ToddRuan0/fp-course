@@ -224,6 +224,9 @@ take this deviation if it is felt that there is more reward in doing so.
 
 After these are completed, complete the exercises in the `projects` directory.
 
+### Youtube Video
+https://www.youtube.com/watch?v=NzIZzvbplSM&list=PLly9WMAVMrayYo2c-1E_rIRwBXG_FbLBW
+
 ### IDEs
 
 The use of IDEs (integrated development environments) is not recommended as many Haskell beginners will spin their wheels trying to get the tools installed and working.
